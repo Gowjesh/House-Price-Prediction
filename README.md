@@ -187,3 +187,10 @@ streamlit run app.py
 - Add interactive visualizations and dashboards.
 - Integrate real-time property data.
 - Support batch predictions using CSV file uploads.
+
+## Output
+
+<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/cb7c92c6-ab94-4ed6-9aaf-11bbf1334ce3" />
+
+
+<img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/f8b88ea6-88c3-43bd-9aaf-0b5a42517df8" />
